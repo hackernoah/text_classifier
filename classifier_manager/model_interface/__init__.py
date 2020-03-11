@@ -1,0 +1,1 @@
+from classifier_manager.model_interface.model_interface import ModelInterface

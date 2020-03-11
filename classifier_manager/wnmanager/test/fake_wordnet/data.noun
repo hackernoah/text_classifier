@@ -1,0 +1,45 @@
+  1 This software and database is being provided to you, the LICENSEE, by  
+  2 Princeton University under the following license.  By obtaining, using  
+  3 and/or copying this software and database, you agree that you have  
+  4 read, understood, and will comply with these terms and conditions.:  
+  5   
+  6 Permission to use, copy, modify and distribute this software and  
+  7 database and its documentation for any purpose and without fee or  
+  8 royalty is hereby granted, provided that you agree to comply with  
+  9 the following copyright notice and statements, including the disclaimer,  
+  10 and that the same appear on ALL copies of the software, database and  
+  11 documentation, including modifications that you make for internal  
+  12 use or for distribution.  
+  13   
+  14 WordNet 3.0 Copyright 2006 by Princeton University.  All rights reserved.  
+  15   
+  16 THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON  
+  17 UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR  
+  18 IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON  
+  19 UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-  
+  20 ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE  
+  21 OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT  
+  22 INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR  
+  23 OTHER RIGHTS.  
+  24   
+  25 The name of Princeton University or Princeton may not be used in  
+  26 advertising or publicity pertaining to distribution of the software  
+  27 and/or database.  Title to copyright in this software, database and  
+  28 any associated documentation shall at all times remain with  
+  29 Princeton University and LICENSEE agrees to preserve same.  
+00001740 03 n 01 entity 0 002 ~ 00001912 n 0000 ~ 00002047 n 0000 | that which is perceived or known or inferred to have its own distinct existence (living or nonliving)  
+00001912 03 n 01 physical_entity 0 003 @ 00001740 n 0000 ~ 00002200 n 0000 ~ 00002288 n 0000 | an entity that has physical existence  
+00002047 03 n 02 abstraction 0 abstract_entity 0 001 @ 00001740 n 0000 | a general concept formed by extracting common features from specific examples  
+00002200 03 n 01 thing 0 001 @ 00001912 n 0000 | a separate and self-contained entity  
+00002288 03 n 02 object 0 physical_object 0 001 @ 00001912 n 0000 | a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects"  
+00002473 03 n 02 whole 0 unit 0 003 @ 00002288 n 0000 ~ 00002695 n 0000 ~ 00002960 n 0000 | an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit"  
+00002695 03 n 01 congener 0 001 @ 00002473 n 0000 | a whole (a thing or person) of the same kind or category as another; "lard was also used, though its congener, butter, was more frequently employed"; "the American shopkeeper differs from his European congener"  
+00002960 03 n 02 living_thing 0 animate_thing 0 005 @ 00002473 n 0000 ~ 00003139 n 0000 ~ 00003842 n 0000 ~ 00003955 n 0000 ~ 00004039 n 0000 | a living (or once living) entity  
+00003139 03 n 02 organism 0 being 0 006 @ 00002960 n 0000 ~ 00003378 n 0000 ~ 00003503 n 0000 ~ 00003597 n 0000 ~ 00003723 n 0000 %p 00004039 n 0000 | a living thing that has (or can develop) the ability to act or function independently  
+00003378 03 n 01 benthos 0 001 @ 00003139 n 0000 | organisms (plants and animals) that live at or near the bottom of a sea  
+00003503 03 n 01 dwarf 0 001 @ 00003139 n 0000 | a plant or animal that is atypically small  
+00003597 03 n 01 heterotroph 0 001 @ 00003139 n 0000 | an organism that depends on complex organic substances for nutrition  
+00003723 03 n 01 parent 0 001 @ 00003139 n 0000 | an organism (plant or animal) from which younger ones are obtained  
+00003842 03 n 01 life 0 001 @ 00002960 n 0000 | living things collectively; "the oceans are teeming with life"  
+00003955 03 n 01 biont 0 001 @ 00002960 n 0000 | a discrete unit of living matter  
+00004039 03 n 01 cell 0 002 @ 00002960 n 0000 #p 00003139 n 0000 | (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals  
