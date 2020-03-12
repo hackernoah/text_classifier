@@ -4,6 +4,7 @@ __pycache__/
 #environments
 idlelib.idle/
 v_env_etc/
+venv_etc/
 .vscode/
 main.py
 #build
